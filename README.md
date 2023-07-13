@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cathielin
-- 👀 I recently graduated from Berkeley in 2023 with a B.S. in Electrical Engineering and Computer Science and am now working as a software engineer.
+- I recently graduated from Berkeley in 2023 with a B.S. in Electrical Engineering and Computer Science and am now working as a software engineer.
 - 📫 How to reach me: cathielin@berkeley.edu
 
 <!---
